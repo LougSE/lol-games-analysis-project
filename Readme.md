@@ -60,3 +60,15 @@ The following tools and technologies were used in this project:
 ├── 📂 Other Files              # Miscellaneous or supporting files
 ├── README.md                   # Project overview (this file)
 ├── git_commands.ipynb          # Useful git commands for managing the project
+
+## Key Findings
+- **Duplicates**: We identified 13 game IDs that were duplicated 3 times and 400 game IDs that were duplicated 2 times. These duplicates were noted for potential removal in the dataset but not dropped during this stage of analysis.
+- **Missing Data**: No missing data were found in the dataset.
+- **Correlations**: We found a high correlation between match outcomes (winners) and key objective metrics such as **tower kills** and **inhibitor kills**.
+- **Best Classifier**: The most effective model for predicting match outcomes was the **LGBMClassifier** (LightGBM), which showed strong predictive performance compared to other models.
+
+## Contact
+Feel free to reach out if you have any questions or suggestions!
+
+- **Email**: lougseco@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lougse/)
