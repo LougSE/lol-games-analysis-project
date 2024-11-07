@@ -6,34 +6,6 @@
         "key": "SummonerBoost",
         "description": "Removes all disables (excluding suppression and airborne) and summoner spell debuffs affecting your champion and lowers the duration of incoming disables by 65% for 3 seconds."
     },
-    "3": {
-        "id": 3,
-        "summonerLevel": 4,
-        "name": "Exhaust",
-        "key": "SummonerExhaust",
-        "description": "Exhausts target enemy champion, reducing their Movement Speed by 30%, and their damage dealt by 40% for 2.5 seconds."
-    },
-    "4": {
-        "id": 4,
-        "summonerLevel": 8,
-        "name": "Flash",
-        "key": "SummonerFlash",
-        "description": "Teleports your champion a short distance toward your cursor's location."
-    },
-    "6": {
-        "id": 6,
-        "summonerLevel": 1,
-        "name": "Ghost",
-        "key": "SummonerHaste",
-        "description": "Your champion gains increased Movement Speed and can move through units for 10 seconds. Grants a maximum of 28-45% (depending on champion level) Movement Speed after accelerating for 2 seconds."
-    },
-    "7": {
-        "id": 7,
-        "summonerLevel": 1,
-        "name": "Heal",
-        "key": "SummonerHeal",
-        "description": "Restores 90-345 Health (depending on champion level) and grants 30% Movement Speed for 1 second to you and target allied champion. This healing is halved for units recently affected by Summoner Heal."
-    },
     "11": {
         "id": 11,
         "summonerLevel": 10,
@@ -68,6 +40,13 @@
         "name": "Barrier",
         "key": "SummonerBarrier",
         "description": "Shields your champion from 115-455 damage (depending on champion level) for 2 seconds."
+    },
+    "3": {
+        "id": 3,
+        "summonerLevel": 4,
+        "name": "Exhaust",
+        "key": "SummonerExhaust",
+        "description": "Exhausts target enemy champion, reducing their Movement Speed by 30%, and their damage dealt by 40% for 2.5 seconds."
     },
     "30": {
         "id": 30,
@@ -117,5 +96,26 @@
         "name": "Disabled Summoner Spells",
         "key": "SummonerDarkStarChampSelect2",
         "description": "Summoner spells are disabled in this mode."
+    },
+    "4": {
+        "id": 4,
+        "summonerLevel": 8,
+        "name": "Flash",
+        "key": "SummonerFlash",
+        "description": "Teleports your champion a short distance toward your cursor's location."
+    },
+    "6": {
+        "id": 6,
+        "summonerLevel": 1,
+        "name": "Ghost",
+        "key": "SummonerHaste",
+        "description": "Your champion gains increased Movement Speed and can move through units for 10 seconds. Grants a maximum of 28-45% (depending on champion level) Movement Speed after accelerating for 2 seconds."
+    },
+    "7": {
+        "id": 7,
+        "summonerLevel": 1,
+        "name": "Heal",
+        "key": "SummonerHeal",
+        "description": "Restores 90-345 Health (depending on champion level) and grants 30% Movement Speed for 1 second to you and target allied champion. This healing is halved for units recently affected by Summoner Heal."
     }
 }
